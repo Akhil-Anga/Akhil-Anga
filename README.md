@@ -1,6 +1,6 @@
 # Hi, I'm Venkata Sai Akhil Anga
 
-Software Engineer and Data Science Graduate Student with nearly 4 years of professional experience designing and developing scalable web applications, backend services, and data-driven solutions.
+Software Engineer and Data Science Graduate Student with 4+ years of professional experience designing and developing scalable web applications, backend services, and data-driven solutions.
 
 Currently pursuing a Master of Science in Data Science at the University at Buffalo while expanding my expertise in Machine Learning, Artificial Intelligence, Data Engineering, and Cloud Technologies.
 
@@ -11,8 +11,8 @@ Currently pursuing a Master of Science in Data Science at the University at Buff
 🎓 Master of Science in Data Science
 University at Buffalo, State University of New York
 
-🎓 Bachelor of Technology
-Computer Science and Engineering
+🎓 Bachelor of Technology in Computer Science
+Andhra University
 
 ---
 
