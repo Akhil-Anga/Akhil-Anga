@@ -1,181 +1,49 @@
 # Hi, I'm Venkata Sai Akhil Anga
 
-Software Engineer and Data Science Graduate Student with 4+ years of professional experience designing and developing scalable web applications, backend services, and data-driven solutions.
+Software Engineer with nearly 4 years of professional experience in Full-Stack Development and Backend Engineering, currently pursuing a Master of Science in Data Science at the University at Buffalo.
 
-Currently pursuing a Master of Science in Data Science at the University at Buffalo while expanding my expertise in Machine Learning, Artificial Intelligence, Data Engineering, and Cloud Technologies.
+My experience spans scalable web applications, REST APIs, cloud-based systems, data analytics, and machine learning solutions. I enjoy building systems that combine strong software engineering principles with data-driven intelligence.
 
----
-
-## Education
-
-🎓 Master of Science in Data Science
-University at Buffalo, State University of New York
-
-🎓 Bachelor of Technology in Computer Science
-Andhra University
-
----
-
-## Professional Experience
-
-Software Engineer with experience across:
-
-- Full Stack Development
-- Backend Engineering
-- Frontend Development
-- REST API Design
-- Microservices Architecture
-- Cloud Computing
-- Database Design
-- Data Analytics
-- Machine Learning Applications
-
-Previously worked on:
-
-- Enterprise Web Applications
-- Real-Time Monitoring Platforms
-- Analytics Dashboards
-- Alerting Systems
-- Data Processing Pipelines
-- Reporting Solutions
-
----
-
-## Technical Skills
-
-### Programming Languages
+## Technical Expertise
 
 - Python
 - Java
-- JavaScript
-- TypeScript
-- SQL
-- R
-- C++
-
-### Frontend
-
+- JavaScript / TypeScript
+- Node.js
+- Spring Boot
 - Angular
 - React
-- HTML5
-- CSS3
-- Bootstrap
-
-### Backend
-
-- Node.js
-- Express.js
-- Spring Boot
-- REST APIs
-- Microservices
-
-### Databases
-
-- MySQL
-- PostgreSQL
-- DynamoDB
-- Cassandra
-- Redis
-
-### Cloud & DevOps
-
+- SQL
 - AWS
 - Docker
-- Jenkins
-- CI/CD
-- Git
-- GitHub
-
-### Data Science & Machine Learning
-
 - Machine Learning
-- Data Analysis
-- Statistical Modeling
-- Data Visualization
-- Predictive Analytics
-- Feature Engineering
-- Classification Models
-- Regression Models
-
----
+- Kafka
+- Redis
 
 ## Featured Projects
 
 ### Real-Time Analytics & Alerting Engine
-
-A scalable analytics platform built using:
-
-- Kafka
-- Node.js
-- Angular
-- PostgreSQL
-- Docker
-
-Features:
-
-- Real-time event processing
-- Alert generation
-- Analytics dashboards
-- Monitoring workflows
-
----
+Built a real-time monitoring platform using Kafka, Node.js, Angular, PostgreSQL, and Docker.
 
 ### Machinery Fault Prediction System
-
-Machine learning solution developed for industrial machinery monitoring.
-
-Highlights:
-
-- Vibration analysis
-- Feature engineering
-- Fault severity prediction
-- Predictive maintenance analytics
-
----
+Developed predictive maintenance models using vibration sensor data and machine learning techniques.
 
 ### Fraud Detection System
-
-Machine learning project focused on detecting fraudulent financial transactions using predictive modeling and data analytics techniques.
-
----
+Designed machine learning workflows for detecting fraudulent financial transactions.
 
 ### Portfolio Website
-
-Professional portfolio showcasing projects, technical expertise, and professional experience.
-
----
+Personal portfolio showcasing professional experience, projects, and technical skills.
 
 ## Current Focus
 
-Currently learning and building in:
-
 - Machine Learning Engineering
 - Artificial Intelligence
-- Large Language Models (LLMs)
 - AI Agents
-- Data Engineering
 - System Design
 - Cloud-Native Applications
 
----
+## Connect
 
-## Career Interests
+LinkedIn: linkedin.com/in/venkata-sai-akhil-anga
 
-Open to opportunities in:
-
-- Software Engineering
-- Machine Learning Engineering
-- Data Science
-- Backend Engineering
-- Full Stack Development
-- AI Engineering
-
----
-
-## Connect With Me
-
-LinkedIn: www.linkedin.com/in/venkata-sai-akhil-anga
-
-Portfolio: https://akhilanga.com
-
-Email: akhilanga18@gmail.com
+Portfolio: akhilanga.com
