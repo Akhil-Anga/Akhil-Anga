@@ -44,6 +44,6 @@ Personal portfolio showcasing professional experience, projects, and technical s
 
 ## Connect
 
-[LinkedIn](www.linkedin.com/in/akhil-anga)
+[LinkedIn](https://www.linkedin.com/in/akhil-anga)
 
 [Portfolio](https://akhilanga.com)
