@@ -44,6 +44,6 @@ Personal portfolio showcasing professional experience, projects, and technical s
 
 ## Connect
 
-LinkedIn: [Venkata Sai Akhil Anga](www.linkedin.com/in/akhil-anga)
+[LinkedIn](www.linkedin.com/in/akhil-anga)
 
-Portfolio: [akhilanga.com](https://akhilanga.com)
+[Portfolio](https://akhilanga.com)
