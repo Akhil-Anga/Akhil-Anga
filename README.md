@@ -1,6 +1,6 @@
 # Hi, I'm Venkata Sai Akhil Anga
 
-Software Engineer with nearly 4 years of professional experience in Full-Stack Development and Backend Engineering, currently pursuing a Master of Science in Data Science at the University at Buffalo.
+Software Engineer with 4+ years of professional experience in Full-Stack Development and Backend Engineering, currently pursuing a Master of Science in Data Science at the University at Buffalo.
 
 My experience spans scalable web applications, REST APIs, cloud-based systems, data analytics, and machine learning solutions. I enjoy building systems that combine strong software engineering principles with data-driven intelligence.
 
@@ -44,6 +44,6 @@ Personal portfolio showcasing professional experience, projects, and technical s
 
 ## Connect
 
-LinkedIn: linkedin.com/in/venkata-sai-akhil-anga
+LinkedIn: [Venkata Sai Akhil Anga](www.linkedin.com/in/akhil-anga)
 
-Portfolio: akhilanga.com
+Portfolio: [akhilanga.com](https://akhilanga.com)
